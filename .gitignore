@@ -1,0 +1,11 @@
+#No seguimos a los binarios
+*.class
+
+#Copias de seguridad
+*~
+*.swp
+
+#Documentacion
+
+/doc
+
